@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Junkie Team Content\n"
+"POT-Creation-Date: 2014-04-25 21:01+0700\n"
+"PO-Revision-Date: 2014-04-25 21:01+0700\n"
+"Last-Translator: Satrya <satrya@satrya.me>\n"
+"Language-Team: Theme Junkie <satrya@theme-junkie.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/admin.php:44
+msgid "Enter member name here"
+msgstr ""
+
+#: ../admin/admin.php:64
+msgid "Name"
+msgstr ""
+
+#: ../admin/admin.php:68
+msgid "Image"
+msgstr ""
+
+#: ../admin/admin.php:70 ../admin/metabox.php:73
+msgid "Position"
+msgstr ""
+
+#: ../admin/admin.php:71
+msgid "Order"
+msgstr ""
+
+#: ../admin/metabox.php:33
+msgid "Team Member Settings"
+msgstr ""
+
+#: ../admin/metabox.php:57
+msgid "Avatar"
+msgstr ""
+
+#: ../admin/metabox.php:58
+msgid "Upload or insert member avatar."
+msgstr ""
+
+#: ../admin/metabox.php:64
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/metabox.php:74
+msgid "The member position."
+msgstr ""
+
+#: ../admin/metabox.php:79
+msgid "Web Designer"
+msgstr ""
+
+#: ../admin/metabox.php:88
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/metabox.php:89
+msgid "Twitter URL."
+msgstr ""
+
+#: ../admin/metabox.php:103
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/metabox.php:104
+msgid "Facebook URL."
+msgstr ""
+
+#: ../admin/metabox.php:118
+msgid "Google Plus"
+msgstr ""
+
+#: ../admin/metabox.php:119
+msgid "Google Plus URL."
+msgstr ""
+
+#: ../admin/metabox.php:133
+msgid "LinkedIn"
+msgstr ""
+
+#: ../admin/metabox.php:134
+msgid "LinkedIn URL."
+msgstr ""
+
+#: ../admin/metabox.php:148
+msgid "Pinterest"
+msgstr ""
+
+#: ../admin/metabox.php:149
+msgid "Pinterest URL."
+msgstr ""
+
+#: ../admin/metabox.php:163
+msgid "Dribbble"
+msgstr ""
+
+#: ../admin/metabox.php:164
+msgid "Dribbble URL."
+msgstr ""
+
+#: ../inc/messages.php:28
+#, php-format
+msgid "Member updated. <a href=\"%s\">View Member</a>"
+msgstr ""
+
+#: ../inc/messages.php:29
+msgid "Custom field updated."
+msgstr ""
+
+#: ../inc/messages.php:30
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../inc/messages.php:31
+msgid "Member updated."
+msgstr ""
+
+#: ../inc/messages.php:32
+#, php-format
+msgid "Member restored to revision from %s"
+msgstr ""
+
+#: ../inc/messages.php:33
+#, php-format
+msgid "Member published. <a href=\"%s\">View It</a>"
+msgstr ""
+
+#: ../inc/messages.php:34
+msgid "Member saved."
+msgstr ""
+
+#: ../inc/messages.php:35
+#, php-format
+msgid "Member submitted. <a target=\"_blank\" href=\"%s\">Preview Member</a>"
+msgstr ""
+
+#: ../inc/messages.php:36
+#, php-format
+msgid ""
+"Member scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Member</a>"
+msgstr ""
+
+#. translators: Publish box date format, see http://php.net/date
+#: ../inc/messages.php:38
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../inc/messages.php:39
+#, php-format
+msgid ""
+"Member draft updated. <a target=\"_blank\" href=\"%s\">Preview Member</a>"
+msgstr ""
+
+#: ../inc/post-type.php:25 ../inc/post-type.php:27 ../inc/post-type.php:29
+msgid "Teams"
+msgstr ""
+
+#: ../inc/post-type.php:26 ../inc/post-type.php:28
+msgid "Team"
+msgstr ""
+
+#: ../inc/post-type.php:30
+msgid "Add New"
+msgstr ""
+
+#: ../inc/post-type.php:31
+msgid "Add New Team"
+msgstr ""
+
+#: ../inc/post-type.php:32
+msgid "Edit Team"
+msgstr ""
+
+#: ../inc/post-type.php:33
+msgid "New Team"
+msgstr ""
+
+#: ../inc/post-type.php:34
+msgid "View Team"
+msgstr ""
+
+#: ../inc/post-type.php:35
+msgid "Search Teams"
+msgstr ""
+
+#: ../inc/post-type.php:36
+msgid "No Teams found"
+msgstr ""
+
+#: ../inc/post-type.php:37
+msgid "No Teams found in trash"
+msgstr ""
+
+#: ../tj-team-content.php:146
+msgid "Upload or Choose Member Image"
+msgstr ""
+
+#: ../tj-team-content.php:147
+msgid "Add image"
+msgstr ""
