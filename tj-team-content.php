@@ -3,7 +3,7 @@
  * Plugin Name:  Theme Junkie Team Content
  * Plugin URI:   http://www.theme-junkie.com/
  * Description:  Enable team post type to your WordPress website.
- * Version:      0.1.0
+ * Version:      0.1.1
  * Author:       Theme Junkie
  * Author URI:   http://www.theme-junkie.com/
  * Author Email: satrya@theme-junkie.com
@@ -34,8 +34,6 @@ class Tj_Team_Content {
 	 * PHP5 constructor method.
 	 *
 	 * @since  0.1.0
-	 * @access public
-	 * @return void
 	 */
 	public function __construct() {
 
@@ -60,8 +58,6 @@ class Tj_Team_Content {
 	 * Defines constants used by the plugin.
 	 *
 	 * @since  0.1.0
-	 * @access public
-	 * @return void
 	 */
 	public function constants() {
 
@@ -86,8 +82,6 @@ class Tj_Team_Content {
 	 * Loads the translation files.
 	 *
 	 * @since  0.1.0
-	 * @access public
-	 * @return void
 	 */
 	public function i18n() {
 		load_plugin_textdomain( 'tjtc', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
@@ -97,8 +91,6 @@ class Tj_Team_Content {
 	 * Loads the admin functions.
 	 *
 	 * @since  0.1.0
-	 * @access public
-	 * @return void
 	 */
 	public function admin() {
 		require_once( TJTC_ADMIN . 'admin.php' );
@@ -109,8 +101,6 @@ class Tj_Team_Content {
 	 * Loads the initial files needed by the plugin.
 	 *
 	 * @since  0.1.0
-	 * @access public
-	 * @return void
 	 */
 	public function includes() {
 		require_once( TJTC_INC . 'post-type.php' );
@@ -122,8 +112,6 @@ class Tj_Team_Content {
 	 * Loads the admin styles and scripts.
 	 *
 	 * @since  0.1.0
-	 * @access public
-	 * @return void
 	 */
 	public function admin_scripts() {
 

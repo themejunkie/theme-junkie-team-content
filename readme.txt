@@ -1,13 +1,13 @@
 === Theme Junkie Team Content ===
 Contributors: themejunkie, satrya
-Tags: team, post type, custom post type, member
+Tags: team, post type, custom post type, member, members, authors, editors
 Requires at least: 3.6
-Tested up to: 3.9
-Stable tag: 0.1.0
+Tested up to: 4.0
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a Team section to your WordPress website.
+Adds a Teams section to your WordPress website.
 
 == Description ==
 
@@ -22,9 +22,6 @@ It has built-in meta boxes to add more data to the member's page such as:
 = Plugin Info =
 * Developed by [Theme Junkie](http://www.theme-junkie.com/)
 * Check out the [Github](https://github.com/themejunkie/theme-junkie-team-content) repo to contribute.
-
-= Note for Theme Junkie user =
-Please **DO NOT** install this plugin before we finish to migrate all themes to this plugin or it will be conflicted with Team post type in the theme you use.
 
 == Installation ==
 
@@ -47,11 +44,8 @@ Please **DO NOT** install this plugin before we finish to migrate all themes to 
 
 == Frequently Asked Questions ==
 
-= Can I use this plugin without purchasing Theme Junkie themes? =
+= Can I use this plugin without being Theme Junkie customer? =
 Yes, this plugin was developed to support all themes.
-
-= Why was this plugin created? =
-Because we will move all custom post types in our themes to a plugins.
 
 == Screenshots ==
 
@@ -59,6 +53,9 @@ Because we will move all custom post types in our themes to a plugins.
 2. Meta boxes
 
 == Changelog ==
+
+= 0.1.1 - 9/04/2014 =
+* Tested for WordPress 4.0
 
 = 0.1 - 4/25/2014 =
 * Initial Release
